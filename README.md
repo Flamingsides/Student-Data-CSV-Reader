@@ -33,10 +33,19 @@ Database: SQLite3
 ## How To Use
 1. To upload files, simply click on the `choose files` button or the green panel.
 2. Alternatively, drag and drop one or more CSV files from your system into the browser.
-    TIP: Use example files in the examples folder in the same directory as the `frontend` and `backend` folders
+
+> TIP: Use example files in the examples folder in the same directory as the `frontend` and `backend` folders
+
 3. Click on `submit` to send files to `backend`
 4. Click on `preview` to view all tables extrapolated from the CSV files
 5. You may upload more files and redo the process :)
 
 ## Project Images
-// TODO
+### Images Upload Form
+![Images Upload Form](https://github.com/Flamingsides/Student-Data-CSV-Reader/assets/84507406/f9abcf1b-c319-4fc7-8222-47e6de21a9ee)
+
+### HTML Tables Output
+![HTML Tables Output](https://github.com/Flamingsides/Student-Data-CSV-Reader/assets/84507406/8d0148b4-a4c1-4612-9784-767b38e80306)
+
+
+
