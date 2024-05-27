@@ -1,4 +1,4 @@
-#An Online Student Data CSV Reader
+# An Online Student Data CSV Reader
 
 ## About
 This webpage is a simple dashboard that allows users to upload one / multiple student CSV files and view the list of uploaded students. Try it out [here](#how-to-run)!
