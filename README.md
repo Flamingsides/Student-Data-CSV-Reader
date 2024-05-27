@@ -27,8 +27,9 @@ Database: SQLite3
 2. `cd` into the backend directory.
 3. Type the command `npm install` followed by `npm run start`
 4. Open a new terminal window and this time navigate to the `frontend` folder
-5. Type the command `npm install` followed by `npm run preview`
+5. Type the command `npm install` followed by `npm run dev`
 6. Click on the link that appears (something like: `localhost:5173`)
+7. In both terminal windows, you may hit CTRL+C to exit the programs.
 
 ## How To Use
 1. To upload files, simply click on the `choose files` button or the green panel.
