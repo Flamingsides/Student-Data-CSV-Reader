@@ -169,9 +169,7 @@ function createTables(headersList, tableName) {
         }
 
         const columns = headers.map(header => `${header.replaceAll(/[^a-zA-Z]/g, "").toLowerCase()} TEXT`).join(", ");
-        console.log(columns);
         const createTableQuery = `CREATE TABLE IF NOT EXISTS "${tableName}" (${columns});`;
-        console.log(createTableQuery);
 
         db.run(createTableQuery, (err) => {
             if (err) {
