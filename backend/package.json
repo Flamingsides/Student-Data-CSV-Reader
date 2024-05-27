@@ -1,0 +1,20 @@
+{
+  "name": "student-data-reader",
+  "version": "1.0.0",
+  "description": "LuxTag Take Home Text",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "devStart": "nodemon script.js"
+  },
+  "author": "Suhaib Hameed Zuberi",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "csv-parser": "^3.0.0",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
