@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: #8489a8;
+    background-color: #a4a8c4;
 }
 
 h1 {
@@ -25,7 +25,8 @@ h1 {
 }
 
 #files-list {
-    max-width: 60%;
+    box-sizing: border-box;
+    width: 100%;
     list-style-type: none;
     overflow: auto;
     display: flex;
